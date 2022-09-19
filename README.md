@@ -14,7 +14,7 @@ Open up L2-HTML-and-JS/index.html and and script.js. Take a look.
 
 Open up L3-L4-Using-JS-Dynamically/index.html and script.js, and take a look.
 
-# Level 4: Moving toward ReactJS methedology while staying
+# Level 4: Moving toward ReactJS methodology while staying
 
 Open up L3-L4-Using-JS-Dynamically/index.html and script.js, and take a look.
 
