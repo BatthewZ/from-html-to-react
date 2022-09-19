@@ -1,0 +1,23 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/l5-react/node_modules
+/l5-react/.pnp
+/l5-react/.pnp.js
+
+# testing
+/l5-react/coverage
+
+# production
+/l5-react/build
+
+# misc
+/l5-react/.DS_Store
+/l5-react/.env.local
+/l5-react/.env.development.local
+/l5-react/.env.test.local
+/l5-react/.env.production.local
+
+/l5-react/npm-debug.log*
+/l5-react/yarn-debug.log*
+/l5-react/yarn-error.log* 
